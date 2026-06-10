@@ -1,0 +1,1 @@
+print('scope 2')

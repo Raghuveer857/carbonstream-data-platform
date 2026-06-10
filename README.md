@@ -1,1 +1,1 @@
-# carbonstream-data-platform
+# CarbonStream - Enterprise Carbon Footprint Data Platform
